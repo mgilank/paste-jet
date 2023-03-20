@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noindex">
 
-    <title>Pastebin | Laravel.io</title>
+    <title>Paste Tools Jetorbit Dev</title>
 
     @include('layouts.favicons')
     @include('layouts.fathom')
