@@ -1,7 +1,7 @@
 <div class="flex items-center shrink-0 px-2">
-    <a href="https://laravel.io">
-        <img class="w-full h-16 dark:hidden" src="https://www.jetorbit.com/wp-content/uploads/2019/05/hosting-murah-jetorbit-logo.svg" alt="Laravel.io Logo" />
-        <img class="w-full h-16 hidden dark:inline" src="https://jetorbit.com/cloud-hosting/wp-content/uploads/2021/05/logo-jetorbit-svg-1.svg" alt="Laravel.io Logo" />
+    <a href="https://jetorbit.com">
+        <img class="w-full h-16 dark:hidden" src="https://www.jetorbit.com/wp-content/uploads/2019/05/hosting-murah-jetorbit-logo.svg" alt="jetorbit.com Logo" />
+        <img class="w-full h-16 hidden dark:inline" src="https://jetorbit.com/cloud-hosting/wp-content/uploads/2021/05/logo-jetorbit-svg-1.svg" alt="jetorbit.com Logo" />
     </a>
 </div>
 

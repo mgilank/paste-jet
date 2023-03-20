@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/laravelio/paste.laravel.io/actions?query=workflow%3ATests">
-        <img src="https://github.com/laravelio/paste.laravel.io/workflows/Tests/badge.svg" alt="Tests" />
+    <a href="https://github.com/laravelio/paste.jetorbit.com/actions?query=workflow%3ATests">
+        <img src="https://github.com/laravelio/paste.jetorbit.com/workflows/Tests/badge.svg" alt="Tests" />
     </a>
-    <a href="https://github.com/laravelio/paste.laravel.io/actions/workflows/coding-standards.yml">
-        <img src="https://github.com/laravelio/paste.laravel.io/actions/workflows/coding-standards.yml/badge.svg" alt="Coding Standards" />
+    <a href="https://github.com/laravelio/paste.jetorbit.com/actions/workflows/coding-standards.yml">
+        <img src="https://github.com/laravelio/paste.jetorbit.com/actions/workflows/coding-standards.yml/badge.svg" alt="Coding Standards" />
     </a>
 </p>
 
-# Laravel.io Pastebin
+# jetorbit.com Pastebin
 
-This is the repository for [the Laravel.io pastebin](https://paste.laravel.io). The code is entirely open source and licensed under [the MIT license](license.md). We welcome your contributions but we encourage you to read the [the contributing guide](CONTRIBUTING.md) before creating an issue or sending in a pull request. Read the installation guide below to get started with setting up the app on your machine.
+This is the repository for [the jetorbit.com pastebin](https://paste.jetorbit.com). The code is entirely open source and licensed under [the MIT license](license.md). We welcome your contributions but we encourage you to read the [the contributing guide](CONTRIBUTING.md) before creating an issue or sending in a pull request. Read the installation guide below to get started with setting up the app on your machine.
 
 ## Requirements
 
@@ -25,7 +25,7 @@ The following tools are required in order to start the installation.
 
 ## Installation
 
-1. Clone this repository locally with `git clone git@github.com:laravelio/paste.laravel.io.git paste.laravel.io`
+1. Clone this repository locally with `git clone git@github.com:laravelio/paste.jetorbit.com.git paste.jetorbit.com`
 2. Copy the `.env.example` file to `.env`
 3. Install the PHP dependencies with `composer install`
 4. Generate a new app key with `php artisan key:generate`
@@ -44,7 +44,7 @@ Command | Description
 
 ## Maintainers
 
-The Laravel.io pastebin is currently maintained by [Dries Vints](https://github.com/driesvints) and [Joe Dixon](https://github.com/joedixon). If you have any questions please don't hesitate to create an issue on this repo.
+The jetorbit.com pastebin is currently maintained by [Dries Vints](https://github.com/driesvints) and [Joe Dixon](https://github.com/joedixon). If you have any questions please don't hesitate to create an issue on this repo.
 
 ## Contributing
 

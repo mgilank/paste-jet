@@ -1,6 +1,6 @@
 # Contributing Guide
 
-We welcome contributions to the Laravel.io project. Please read the following guide before posting an issue or sending
+We welcome contributions to the jetorbit.com project. Please read the following guide before posting an issue or sending
 in pull requests. Please also read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing or engaging in
 discussions.
 
@@ -12,7 +12,7 @@ discussions.
 
 ## Pull Requests
 
-- **Feature requests** we're welcoming pull requests for new features (although we might not accept every single one). You can also first discuss new feature requests [through an issue](https://github.com/laravelio/laravel.io/issues/new) before sending in a pull request
+- **Feature requests** we're welcoming pull requests for new features (although we might not accept every single one). You can also first discuss new feature requests [through an issue](https://github.com/laravelio/jetorbit.com/issues/new) before sending in a pull request
 - **Bug fixes** should contain [regression tests](https://laracasts.com/lessons/regression-testing)
 - All pull requests should follow the [coding standards](#coding-standards)
 - Pull requests will be merged after being reviewed by [the maintainers](README.md#maintainers)
@@ -22,7 +22,7 @@ discussions.
 
 - It's a good practice to write tests for your contribution
 - Write the full namespace in DocBlocks for `@param`, `@var` or `@return` tags
-- The rest of the coding standards will automatically fixed by [Github Actions](https://github.com/laravelio/paste.laravel.io/actions)
+- The rest of the coding standards will automatically fixed by [Github Actions](https://github.com/laravelio/paste.jetorbit.com/actions)
 
 ## Testing
 
