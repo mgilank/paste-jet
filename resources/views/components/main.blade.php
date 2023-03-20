@@ -3,8 +3,8 @@
         <div class="flex items-center justify-between bg-gray-50 dark:bg-gray-700 border-b border-gray-200 dark:border-gray-900 px-4 py-1.5">
             <div>
                 <a href="{{ route('home') }}">
-                    <img class="h-8 w-auto dark:hidden" src="{{ asset('images/laravelio-icon.svg') }}" alt="jetorbit.com">
-                    <img class="h-8 w-auto hidden dark:inline" src="{{ asset('images/laravelio-icon-white.svg') }}" alt="jetorbit.com">
+                    <img class="h-8 w-auto dark:hidden" src="https://www.jetorbit.com/wp-content/uploads/2019/05/hosting-murah-jetorbit-logo.svg" alt="jetorbit.com">
+                    <img class="h-8 w-auto hidden dark:inline" src="https://jetorbit.com/cloud-hosting/wp-content/uploads/2021/05/logo-jetorbit-svg-1.svg" alt="jetorbit.com">
                 </a>
             </div>
             <div>
