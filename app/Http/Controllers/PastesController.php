@@ -35,4 +35,10 @@ class PastesController extends Controller
 
         return redirect()->route('show', $paste->hash);
     }
+
+    public function delete(Paste $paste){
+       
+        $res = Paste::where('hash', $paste->hash)->delete();
+        return redirect('/')->with(['success' => 'Telah terhapus sudah T_T']);
+    }
 }

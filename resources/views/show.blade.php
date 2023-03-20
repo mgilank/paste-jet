@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+
     <div x-data="{ isOpen: false }" class="h-screen flex overflow-hidden">
         <x-main>
             <pre
@@ -20,6 +21,9 @@
             />
             <x-nav-item label="Fork" :link="route('edit', $paste->hash)" icon="heroicon-o-document-duplicate" />
             <x-nav-item label="Raw" :link="route('raw', $paste->hash)" icon="heroicon-o-arrow-top-right-on-square" blank />
+            <x-nav-item label="Delete" :link="route('delete', $paste->hash)" icon="heroicon-o-trash" />
+
         </x-nav>
     </div>
+      
 @stop
