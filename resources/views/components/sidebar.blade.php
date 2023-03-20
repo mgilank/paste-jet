@@ -14,7 +14,7 @@
 </nav>
 
 <p class="mt-4 text-sm text-gray-500 text-center">
-    Please note that all pasted data is publicly available.
+    Data akan tetap terlihat secara publik hingga anda menghapusnya. Take care!
 </p>
 
 <div class="mt-4 flex justify-center space-x-4">
