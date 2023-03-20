@@ -27,7 +27,7 @@
     @vite(['resources/css/app.scss', 'resources/js/app.js'])
 
     @include('layouts.favicons')
-    @include('layouts.fathom')
+    {{-- @include('layouts.fathom') --}}
 </head>
 <body class="dark:bg-dark">
 
